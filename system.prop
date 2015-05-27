@@ -81,3 +81,6 @@ ril.radiooff.poweroffMD=0
 import /oem/oem.prop ro.product.name
 import /oem/oem.prop ro.product.manufacturer
 import /oem/oem.prop ro.product.model
+
+ro.product.model=sprout
+ro.product.device=sprout
